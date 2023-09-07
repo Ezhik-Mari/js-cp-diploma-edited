@@ -1,6 +1,6 @@
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
-- Проект на githubPage https://ezhik-mari.github.io/js-cp-diploma.io/
+- Проект на githubPage https://ezhik-mari.github.io/js-cp-diploma-edited/
 - Стек используемых технологий: javascript, html, css.
 
 ## Создание «информационной системы для предварительного бронирования билетов».
